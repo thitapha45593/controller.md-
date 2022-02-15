@@ -40,5 +40,6 @@ Name : RISC-V
 ราคา :  675 baht
 Link : https://shopee.co.th/Sipeed-Maix-Bit-Risc-V-Dual-Core-64bit-Cpu-พร้อมช่องเสียบการ์ด-Fpu-Tf-  Rgb-Led-Rst-Usr--i.236733993.13162954821?gclid=EAIaIQobChMIppnjl8__9QIV1DUrCh3ceQ26EAYYASABEgKCy_D_BwE
 หน่วยความจำ  : 64 bit
+
 Port input output :   ไม่ทราบแน่ชัด
 
