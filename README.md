@@ -29,27 +29,43 @@ Port input output :  ไม่ทราบแน่ชัด
 
 
 # ตัวที่3
+
 Name  : Mikroe-649
+
 ราคา :  966.75 baht
+
 Link :  https://www.arrow.com/en/products/mikroe-649/mikroelektronika?gclid=EAIaIQobChMIyNC775r69QIVSSUrCh0pOAUHEAQYBSABEgLo1PD_BwE&gclsrc=aw.ds
+
 ความเร็ว : 60 MHz
+
 หน่วยความจำ :  40 Kb
+
 Port input output :  64 pin
 
 
 # ตัวที่ 4
+
 Name :  Mikroe-1029
+
 ราคา :   1048.93 baht
+
 Link :   https://www.arrow.com/en/products/mikroe-1029/mikroelektronika?gclid=EAIaIQobChMIyNC775r69QIVSSUrCh0pOAUHEAQYGSABEgJ-BfD_BwE&gclsrc=aw.ds
+
 ความเร็ว :   20 MHz
+
 หน่วยความจำ  :  1536 Kb
+
 Port input output :   ไม่ทราบแน่ชัด
 
 
 # ตัวที่ 5
+
 Name : RISC-V
+
 ราคา :  675 baht
+
 Link : https://shopee.co.th/Sipeed-Maix-Bit-Risc-V-Dual-Core-64bit-Cpu-พร้อมช่องเสียบการ์ด-Fpu-Tf-  Rgb-Led-Rst-Usr--i.236733993.13162954821?gclid=EAIaIQobChMIppnjl8__9QIV1DUrCh3ceQ26EAYYASABEgKCy_D_BwE
+
 หน่วยความจำ  : 64 bit
 
 Port input output :   ไม่ทราบแน่ชัด
