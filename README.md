@@ -1,19 +1,30 @@
 ##    Board microcontroller 4 types
 # ตัวเเรก
 Name :  NERV Microcontroller Development Board for Arduino-UNO NodeMCU Wemosesp8266       TTLCH340G
+
 ราคา :  237 baht
+
 Link :    https://www.google.co.th/shopping/product/1?client=safari&hl=th-  th&q=microcontroller+board&prds=epd:14431857510854122007,eto:14431857510854122007_0,pid:14431857510854122007&sa=X&ved=0ahUKEwjZzomB5vn1AhXhQ3wKHTyYD-UQ9pwGCAo
+
 ความเร็ว : 100 MHz
+
 หน่วยความจำ :  32 Mb
- Port input output :  input Analog 6 ช่อง
+
+Port input output :  input Analog 6 ช่อง
                                 และ digital อีก 14 ช่อง
 
 # ตัวที่ 2
+
 Name :  DFRobot FireBeetle ESP8266 IOT Microcontroller
+
 ราคา  : 289.22  baht
+
 Link : https://th.rs-online.com/web/p/microcontroller-development-tools/2163757
+
 ความเร็ว  : 
+
 หน่วยความจำ :  16 Mb
+
 Port input output :  ไม่ทราบแน่ชัด
 
 
